@@ -1,5 +1,5 @@
 # edit by russysky :)
-
+#The code was verified by Gpt chat =)
 import math
 
 print("Тебя приветствует калькулятор!")
